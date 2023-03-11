@@ -8,9 +8,9 @@ This React app is a CodePen clone with a basic functionality. It uses CodeMirror
 
 ## Links for Project
 
-- ### 📌 [LIVE Project Link]()
+- ### 📌 [LIVE Project Link](https://react-code-pen.netlify.app/)
 
-- ### 📌 [YouTube Link]()
+- ### 📌 [YouTube Link](https://youtu.be/BaItHRxpqcE)
 
 ## Tech Stack Used
 
